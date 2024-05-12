@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 # ZeroPing.sh Cloud Hosting 🚀
 
 Welcome to ZeroPing LLC's Cloud Hosting service, based in Germany! We're excited to have you onboard.
