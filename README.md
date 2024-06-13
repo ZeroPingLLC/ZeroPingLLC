@@ -21,7 +21,7 @@ To get started with ZeroPing.sh Cloud Hosting, follow these steps:
 
 ## Contact Us
 - **Email:** support@zeroping.sh
-- **Phone:** +49 221 98819555
+- **Phone:** +49 4933 3029940
 - **Discord:** [@ZeroPing.sh](https://dc.zeroping.sh)
 - **Instagram:** [ZeroPing.sh](https://instagram.com/zeroping.sh)
 
